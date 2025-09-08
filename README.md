@@ -1,7 +1,2 @@
-# Create a README.md
-
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
-
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
-
-Did you add an open source software license?
+# Plotting random data
+This notebook generates 3 random datasets and uses a function to plot either a scatterplot or a histogram
